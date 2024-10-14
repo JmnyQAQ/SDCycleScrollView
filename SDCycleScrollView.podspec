@@ -23,6 +23,8 @@ s.source_files  = "SDCycleScrollView/Lib/SDCycleScrollView/**/*.{h,m}"
 s.requires_arc = true
 
 
-s.dependency 'SDWebImage', '>= 5.0.0'
+#s.dependency 'SDWebImage', '>= 5.0.0'
+s.dependency 'YYWebImage'
+s.dependency 'YYImage/WebP'
 
 end
