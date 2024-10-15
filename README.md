@@ -1,10 +1,13 @@
-# SDCycleScrollView（新建QQ交流群：185534916、675995250）
+# SDCycleScrollView
 ## ☆☆☆ “iOS图片、文字轮播器” ☆☆☆
 
-### 字节跳动 iOS 岗位招聘
-北上广深杭大量招人，各种研发岗位都在找，有意向者可以直接点击后面链接投递简历或者联系我 gsdios@126.com https://job.toutiao.com/s/eL91QMm，
 
-### 支持pod导入
+### Forked 只为修改为YY加载图片
+
+
+
+
+### 支持pod导入 原库地址 [点击此处跳转](https://github.com/gsdios/SDCycleScrollView)
 pod 'SDCycleScrollView','>= 1.82'
 
 
